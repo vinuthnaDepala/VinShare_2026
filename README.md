@@ -1,6 +1,6 @@
 # VinShare | Dream Together
 
-**Created by Vinuthna Depala, Shrihas, Isabella Wu, and Nisitha Sree Gadhi**
+**Created by Vinuthna Depala, Srihas Gupta, Isabella Wu, and Nisitha Sree Gadhi**
 
 ---
 
